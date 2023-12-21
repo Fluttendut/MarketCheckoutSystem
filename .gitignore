@@ -1,0 +1,29 @@
+# Ignore the build output directories
+bin/
+obj/
+
+# Ignore files built by Visual Studio
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.dbmdl
+*.mdf
+*.ldf
+.ipch/
+*.tlog/
+*.vspscc/
+*.vssscc
